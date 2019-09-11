@@ -4,10 +4,16 @@ This is a list of recommendations to make this project better
 
 // Please make your recommendations as clear as possible with only a few sentences 
 
-1.
+1. It is just profile page, I need to fix its design
 
-2.
+2. It needs to add Sessions
 
-3.
+3. Change password is not working
 
-4.
+4. Reload the pic in each 2 mins
+
+5. I prefer to use angular, it will give me better architecture,
+ I will classify the page as components then deal with them
+
+6. The hardest part to me is thinking about the idea of this app, 
+is it a portfolio, chating, images,.. etc. to know what should it look like
